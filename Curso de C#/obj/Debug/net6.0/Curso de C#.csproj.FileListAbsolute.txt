@@ -1,0 +1,14 @@
+C:\Users\nugst\source\repos\Curso de C#\Curso de C#\bin\Debug\net6.0\Curso de C#.exe
+C:\Users\nugst\source\repos\Curso de C#\Curso de C#\bin\Debug\net6.0\Curso de C#.deps.json
+C:\Users\nugst\source\repos\Curso de C#\Curso de C#\bin\Debug\net6.0\Curso de C#.runtimeconfig.json
+C:\Users\nugst\source\repos\Curso de C#\Curso de C#\bin\Debug\net6.0\Curso de C#.dll
+C:\Users\nugst\source\repos\Curso de C#\Curso de C#\bin\Debug\net6.0\Curso de C#.pdb
+C:\Users\nugst\source\repos\Curso de C#\Curso de C#\obj\Debug\net6.0\Curso de C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nugst\source\repos\Curso de C#\Curso de C#\obj\Debug\net6.0\Curso de C#.AssemblyInfoInputs.cache
+C:\Users\nugst\source\repos\Curso de C#\Curso de C#\obj\Debug\net6.0\Curso de C#.AssemblyInfo.cs
+C:\Users\nugst\source\repos\Curso de C#\Curso de C#\obj\Debug\net6.0\Curso de C#.csproj.CoreCompileInputs.cache
+C:\Users\nugst\source\repos\Curso de C#\Curso de C#\obj\Debug\net6.0\Curso de C#.dll
+C:\Users\nugst\source\repos\Curso de C#\Curso de C#\obj\Debug\net6.0\refint\Curso de C#.dll
+C:\Users\nugst\source\repos\Curso de C#\Curso de C#\obj\Debug\net6.0\Curso de C#.pdb
+C:\Users\nugst\source\repos\Curso de C#\Curso de C#\obj\Debug\net6.0\Curso de C#.genruntimeconfig.cache
+C:\Users\nugst\source\repos\Curso de C#\Curso de C#\obj\Debug\net6.0\ref\Curso de C#.dll
